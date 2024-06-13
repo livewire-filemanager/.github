@@ -12,4 +12,4 @@ Let's build something great together!
 
 This package is maintained by Yves, who founded Bee Interactive.
 
-[Bee Interactive](https://bee-interactive.ch) Bee Interactive is a web and application development agency, based in Vevey, Switzerland, which believes in the power of big ideas and solutions. Based on clients feedbacks, we thought that it would be cool and useful to open source this pacakge that was used only in private projects.
+[Bee Interactive](https://bee-interactive.ch) Bee Interactive is a web and application development agency, based in Vevey, Switzerland, which believes in the power of big ideas and solutions. Based on clients feedbacks, we thought that it would be cool and useful to open source this package that was used only in private projects.

@@ -1,4 +1,10 @@
-<p align="center"><img src="https://github.com/livewire-filemanager/laravel-filemanager.com/raw/master/public/img/banner.png" alt="Livewire Filemanager"></p>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livewire-filemanager/filemanager/master/images/banner_dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livewire-filemanager/filemanager/master/images/banner_light.png">
+        <img alt="Livewire filemanager image" src="https://raw.githubusercontent.com/livewire-filemanager/filemanager/master/images/banner_light.png">
+    </picture>
+</p>
 
 ## Hi there 👋 Welcome to the livewire filemanager packages
 
